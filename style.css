@@ -105,6 +105,9 @@ textarea {
   margin-bottom: 10px;
 }
 
+.state__number--limit{
+  color: #aa7171;
+}
 .second-heading {
   font-size: 14px;
   text-transform: uppercase;
